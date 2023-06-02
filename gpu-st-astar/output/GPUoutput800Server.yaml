@@ -1,0 +1,8 @@
+statistics:
+  cost: 0
+  makespan: 0
+  runtime: 1.46045
+  highLevelExpanded: 0
+  lowLevelExpanded: 0
+schedule:
+  agent0:
