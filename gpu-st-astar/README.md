@@ -4,8 +4,7 @@ Tested on Ubuntu 20.04
 Build
 *****
 
-<pre><code>
-make clean
+<pre><code>make clean
 make -j$(nproc)
 </code></pre>
 
